@@ -10,8 +10,6 @@ tags:
 categories:
   - Conference Papers
 links:
-  - name: "Custom URL"
-    url: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6f6f6f6f6f6f6f6f6f6f6f6f6f6f6f6-Abstract-Conference.html"
 url_pdf: ""
 url_code: ""
 url_dataset: ""

@@ -11,8 +11,6 @@ tags:
 categories:
   - Journal Articles
 links:
-  - name: "Custom URL"
-    url: "https://arxiv.org/abs/2503.23022"
 url_pdf: ""
 url_code: ""
 url_dataset: ""

@@ -11,8 +11,6 @@ tags:
 categories:
   - Conference Papers
 links:
-  - name: "Custom URL"
-    url: "https://proceedings.mlr.press/v235/chen24bi.html"
 url_pdf: ""
 url_code: ""
 url_dataset: ""

@@ -11,8 +11,6 @@ tags:
 categories:
   - Conference Papers
 links:
-  - name: "Custom URL"
-    url: "https://aclanthology.org/2024.emnlp-main.123"
 url_pdf: ""
 url_code: ""
 url_dataset: ""
